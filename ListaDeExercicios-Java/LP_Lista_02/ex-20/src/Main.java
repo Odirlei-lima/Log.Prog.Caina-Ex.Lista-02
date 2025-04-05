@@ -11,10 +11,10 @@ public class Main {
         System.out.print(" Digite o valor de x2: ");
         x2 = in.nextDouble();
 
-        b = (x1+x2);
-        c = (x1*x2);
+        b = ((-x1)+(-x2));
+        c = ((-x1)*(-x2));
 
-        System.out.print("x²-"+b+"x"+c);
+        System.out.print("x² "+b+" x "+c+ " =0");
 
 
 
