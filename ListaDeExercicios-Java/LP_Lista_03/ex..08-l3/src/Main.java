@@ -12,11 +12,10 @@ public class Main {
 
         if (number%2==0) {
             System.out.println(" O N° digitado é par.");
-            }else{
+        }else{
 
-                System.out.println(" O N° digitado é impar.");
-            }
+            System.out.println(" O N° digitado é impar.");
         }
+    }
 
-        }
-
+}

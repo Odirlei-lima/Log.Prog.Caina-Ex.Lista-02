@@ -3,19 +3,27 @@ import java.util.Arrays;
 
 public class Main {
     public static void main(String[] args) {
-        Scanner Scanner = new Scanner(System.in);
+        Scanner scanner = new Scanner(System.in); // nome de variável com minúscula por convenção
         int n1, n2, n3;
 
-        System.out.println(" Ordem crescente dos três Numeros digitados:");
-        System.out.println(" Digite 3 Números inteiros separados por espaço. ");
-        n1 = Scanner.nextInt();
-        n2 = Scanner.nextInt();
-        n3 = Scanner.nextInt();
+        System.out.println("Digite 3 números inteiros separados por espaço:");
+        n1 = scanner.nextInt();
+        n2 = scanner.nextInt();
+        n3 = scanner.nextInt();
 
-       int[] numeros = {n1, n2,n3};
-       Arrays.sort(numeros);
+        int[] numeros = {n1, n2, n3};
+        Arrays.sort(numeros);
 
-        System.out.println(" A ordem crescente dos números são: "+numeros[0]+" , "+numeros[1]+" e "+numeros[2]);
+        System.out.println("A ordem crescente dos números é: "
+                + numeros[0] + ", "
+                + numeros[1] + " e "
+                + numeros[2]);
 
-        }
+        scanner.close(); // sempre bom fechar o Scanner
     }
+}
+
+
+
+
+
