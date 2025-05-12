@@ -3,7 +3,8 @@ import java.util.Arrays;
 
 public class Main {
     public static void main(String[] args) {
-        Scanner scanner = new Scanner(System.in); // nome de variável com minúscula por convenção
+        Scanner scanner = new Scanner(System.in);
+        // nome de variável com minúscula por convenção
         int n1, n2, n3;
 
         System.out.println("Digite 3 números inteiros separados por espaço:");
