@@ -10,7 +10,7 @@ public class Main {
 
         Scanner input = new Scanner(System.in);
 
-        System.out.println("Digite um número inteiro para verificar se o mesmo está no vetor");
+        System.out.println("Digite um número inteiro para verificar se o mesmo está no vetor:");
         number = input.nextInt();
 
         for ( int i = 0;i < vetor.length;i++){
@@ -20,7 +20,7 @@ public class Main {
             }
         }
 
-        if(found)
+        if(!found)
             System.out.println("Valor não encontrado");
 
     }
