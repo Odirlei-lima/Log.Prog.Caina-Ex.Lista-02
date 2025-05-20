@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/LP_Lista_05.iml" filepath="$PROJECT_DIR$/.idea/LP_Lista_05.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ex.01-l5/ex.01-l5.iml" filepath="$PROJECT_DIR$/ex.01-l5/ex.01-l5.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ex.02-l5/ex.02-l5.iml" filepath="$PROJECT_DIR$/ex.02-l5/ex.02-l5.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ex.03-l5/ex.03-l5.iml" filepath="$PROJECT_DIR$/ex.03-l5/ex.03-l5.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ex.04-l5/ex.04-l5.iml" filepath="$PROJECT_DIR$/ex.04-l5/ex.04-l5.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ex.05-l5/ex.05-l5.iml" filepath="$PROJECT_DIR$/ex.05-l5/ex.05-l5.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ex.06-l5/ex.06-l5.iml" filepath="$PROJECT_DIR$/ex.06-l5/ex.06-l5.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ex.07-l5/ex.07-l5.iml" filepath="$PROJECT_DIR$/ex.07-l5/ex.07-l5.iml" />
+      <module fileurl="file://$PROJECT_DIR$/exemplo-matrizes/exemplo-matrizes.iml" filepath="$PROJECT_DIR$/exemplo-matrizes/exemplo-matrizes.iml" />
+      <module fileurl="file://$PROJECT_DIR$/exemplo-vetores/exemplo-vetores.iml" filepath="$PROJECT_DIR$/exemplo-vetores/exemplo-vetores.iml" />
+    </modules>
+  </component>
+</project>

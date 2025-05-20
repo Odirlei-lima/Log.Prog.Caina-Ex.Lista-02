@@ -18,7 +18,11 @@ public class Main {
             }
         }
 
+<<<<<<< HEAD
         if (!found)
+=======
+        if(!found)
+>>>>>>> 6b416943067d6135f3de4e925f4e8fbd4e460899
             System.out.println("Valor não encontrado");
     }
 }
