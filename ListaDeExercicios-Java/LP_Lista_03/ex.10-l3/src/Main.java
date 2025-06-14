@@ -4,7 +4,7 @@ import java.util.Arrays;
 public class Main {
     public static void main(String[] args) {
         Scanner scanner = new Scanner(System.in);
-        // nome de variável com minúscula por convenção
+
         int n1, n2, n3;
 
         System.out.println("Digite 3 números inteiros separados por espaço:");
@@ -20,7 +20,7 @@ public class Main {
                 + numeros[1] + " e "
                 + numeros[2]);
 
-        scanner.close(); // sempre bom fechar o Scanner
+
     }
 }
 

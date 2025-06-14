@@ -20,7 +20,7 @@ public class Main {
             segundo = proximo;
         }
 
-        scanner.close();
+
     }
 }
 

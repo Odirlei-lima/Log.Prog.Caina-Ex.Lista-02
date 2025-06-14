@@ -15,7 +15,7 @@ public class Main {
         }
 
         System.out.println(n + "! = " + fatorial);
-        scanner.close();
+
     }
 }
 

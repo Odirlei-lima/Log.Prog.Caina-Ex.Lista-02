@@ -16,6 +16,6 @@ public class Main {
 
                 System.out.println("O dobro de " + number + " é " + result);
 
-                in.close(); // Fechar o Scanner para evitar vazamento de recursos
+
             }
         }

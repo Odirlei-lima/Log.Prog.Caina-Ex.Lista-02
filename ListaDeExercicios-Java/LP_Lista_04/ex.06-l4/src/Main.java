@@ -16,7 +16,7 @@ public class Main {
             System.out.println("Os números são: " + i);
         }
 
-        scanner.close();
+
     }
 }
 
